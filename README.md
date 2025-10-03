@@ -16,4 +16,4 @@ Studying Computer Science at Santa Clara University
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-*im cooking something cool (more updates coming soon...)*
+im cooking something cool (more updates coming soon...)
