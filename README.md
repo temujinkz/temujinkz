@@ -1,6 +1,6 @@
 # *“If a man knows not to which port he sails, no wind is favorable.”*
 
-Studying Computer Science at Santa Clara University
+CS @ Santa Clara University
 
 ## Tools
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
