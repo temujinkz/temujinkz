@@ -1,17 +1,10 @@
 ### Temujin Talkenov
 
-CS @ Santa Clara University. Solo founder building products end‑to‑end across design, iOS, web, backend, and infra.
+CS @ Santa Clara University. Solo founder building end-to-end products.
 
 **Currently shipping**
-- **Articulate AI**, an iOS coach for speech and communication. Swift / SwiftUI, Supabase, Gemini + Cerebras.
-- **Momentum**, an independent design studio. Sites and brand systems for clients in retreat hospitality, automotive, logistics, and finance.
-
-**Selected public work**
-- [`Qapal`](https://github.com/temujinkz/Qapal): luxury modular retreat. Next.js 14, framer‑motion, custom shader background, runtime i18n.
-- [`Momentum`](https://github.com/temujinkz/Momentum): studio site. Hand‑rolled HTML/CSS, Fraunces + Inter, gold‑on‑ink palette.
-- [`EcoAuto`](https://github.com/temujinkz/EcoAuto): EV service brand site.
-- [`Financial_Calculator`](https://github.com/temujinkz/Financial_Calculator): disbursement, starting‑date, and interest calculator suite for a multilateral bank.
-- [`swiftbox`](https://github.com/temujinkz/swiftbox): modern logistics landing page concept.
+- **Articulate AI**, an iOS app helping people improve their communication skills.
+- **Momentum**, an independent design studio, helping with branding for clients in retreat hospitality, automotive, logistics, finance, etc.
 
 **Stack**
 
