@@ -1,19 +1,29 @@
-# *“If a man knows not to which port he sails, no wind is favorable.”*
+### Temujin Talkenov
 
-CS @ Santa Clara University
+CS @ Santa Clara University. Solo founder building products end‑to‑end — design, iOS, web, backend, infra.
 
-## Tools
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+**Currently shipping**
+- **Articulate AI** — iOS coach for speech and communication. Swift / SwiftUI, Supabase, Gemini + Cerebras.
+- **Momentum** — independent design studio. Sites and brand systems for clients in retreat hospitality, automotive, logistics, finance.
 
-im cooking something cool (more updates coming soon...)
+**Selected public work**
+- [`Qapal`](https://github.com/temujinkz/Qapal) — luxury modular retreat. Next.js 14, framer‑motion, custom shader background, multi‑language.
+- [`Momentum`](https://github.com/temujinkz/Momentum) — studio site. Hand‑rolled HTML/CSS, Fraunces + Inter, gold‑on‑ink palette.
+- [`EcoAuto`](https://github.com/temujinkz/EcoAuto) — EV service brand site.
+- [`Financial_Calculator`](https://github.com/temujinkz/Financial_Calculator) — disbursement / starting‑date / interest calculator suite for a multilateral bank.
+- [`swiftbox`](https://github.com/temujinkz/swiftbox) — modern logistics landing page concept.
+
+**Stack**
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=flat&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+> *"If a man knows not to which port he sails, no wind is favorable."*
